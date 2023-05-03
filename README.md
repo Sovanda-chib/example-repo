@@ -1,1 +1,1 @@
-# example-repo
+# Example of brand 2
